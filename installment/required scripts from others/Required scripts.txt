@@ -1,9 +1,0 @@
-Greetings
-
-so you will need the script from Angelicxs-Randombox to make the scrapwhite/black bags work 
-https://github.com/GouveiaXS/angelicxs-RandomBox
-
-Also you might like the dumpster diving from ZF 
-https://github.com/zf-labo/zf-dumpster-qb
-
-the scripts in this folder have been preconfiged to be working with the overhall to the recycling
